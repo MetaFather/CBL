@@ -2251,6 +2251,24 @@
                          "type":"string",
                          "value":"door_open_zonetwo"
                         }]
+                }, 
+                {
+                 "id":860,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":885,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }],
          "tilewidth":32
         }, 
