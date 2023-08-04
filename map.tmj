@@ -57,7 +57,7 @@
         {
          "draworder":"topdown",
          "id":64,
-         "name":"Object Layer 1",
+         "name":"floorLayer",
          "objects":[
                 {
                  "height":139.334,
