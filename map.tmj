@@ -1459,7 +1459,7 @@
                      "fontfamily":"Arial",
                      "italic":true,
                      "pixelsize":32,
-                     "text":"S'engager\/Engage",
+                     "text":"S'engager \/ Engage",
                      "wrap":true
                     },
                  "type":"",
@@ -1501,14 +1501,14 @@
                      "fontfamily":"Arial",
                      "italic":true,
                      "pixelsize":32,
-                     "text":"Agir \/ Act",
+                     "text":"3.",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":166.666666666667,
-                 "x":326.604666666667,
-                 "y":337.060666666667
+                 "width":30.666666666667,
+                 "x":381.271333333334,
+                 "y":285.060666666667
                 }, 
                 {
                  "height":0,
@@ -1901,6 +1901,70 @@
                  "width":80,
                  "x":990,
                  "y":1137.0625
+                }, 
+                {
+                 "height":49.2083333333334,
+                 "id":97,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#c82909",
+                     "fontfamily":"Arial",
+                     "italic":true,
+                     "pixelsize":32,
+                     "text":"1.",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":30.6666666666666,
+                 "x":848,
+                 "y":968.729166666667
+                },
+            
+                {
+                 "height":37.875,
+                 "id":98,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#ffff00",
+                     "fontfamily":"Arial",
+                     "italic":true,
+                     "pixelsize":32,
+                     "text":"2.",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":31.3330000000001,
+                 "x":1204.3335,
+                 "y":296.395833333333
+                }, 
+                {
+                 "height":39.875,
+                 "id":99,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#0354aa",
+                     "fontfamily":"Arial",
+                     "italic":true,
+                     "pixelsize":32,
+                     "text":"Agir \/ Act",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":166.667,
+                 "x":308.6665,
+                 "y":332.0625
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2117,7 +2181,7 @@
          "y":0
         }],
  "nextlayerid":86,
- "nextobjectid":97,
+ "nextobjectid":100,
  "orientation":"orthogonal",
  "properties":[
         {
