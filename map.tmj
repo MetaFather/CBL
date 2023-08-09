@@ -1657,16 +1657,6 @@
                  "name":"2.A",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"2.A2023"
-                        }, 
-                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/view.genial.ly\/64c95d1ab414db0011d43b70\/interactive-content-pollution-post"
@@ -1693,16 +1683,6 @@
                  "id":23,
                  "name":"",
                  "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"GA.32345"
-                        }, 
                         {
                          "name":"openWebsite",
                          "type":"string",
@@ -1731,16 +1711,6 @@
                  "name":"",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"GA.22345"
-                        }, 
-                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/www.blankmediagames.com\/"
@@ -1767,16 +1737,6 @@
                  "id":29,
                  "name":"1.B",
                  "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"1.C2023"
-                        }, 
                         {
                          "name":"openWebsite",
                          "type":"string",
@@ -1805,16 +1765,6 @@
                  "name":"2.C",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"2.C2023"
-                        }, 
-                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/view.genial.ly\/64c95d1ab414db0011d43b70\/interactive-content-pollution-post"
@@ -1841,21 +1791,6 @@
                  "id":33,
                  "name":"3.B",
                  "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"3.D2023"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
                         {
                          "name":"openWebsite",
                          "type":"string",
@@ -1884,16 +1819,6 @@
                  "name":"1.C",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"1.D2023"
-                        }, 
-                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/view.genial.ly\/64c95d1ab414db0011d43b70\/interactive-content-pollution-post"
@@ -1920,16 +1845,6 @@
                  "id":37,
                  "name":"2.B",
                  "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"2.D2023"
-                        }, 
                         {
                          "name":"openWebsite",
                          "type":"string",
@@ -1958,16 +1873,6 @@
                  "name":"3.A",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"3.A2023"
-                        }, 
-                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/view.genial.ly\/64c95d1ab414db0011d43b70\/interactive-content-pollution-post"
@@ -1994,16 +1899,6 @@
                  "id":41,
                  "name":"1.D",
                  "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"1.A2023"
-                        }, 
                         {
                          "name":"openWebsite",
                          "type":"string",
@@ -2032,16 +1927,6 @@
                  "name":"2.A",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"2.B2023"
-                        }, 
-                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/view.genial.ly\/64c95d1ab414db0011d43b70\/interactive-content-pollution-post"
@@ -2068,16 +1953,6 @@
                  "id":45,
                  "name":"3.C",
                  "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"3.C2023"
-                        }, 
                         {
                          "name":"openWebsite",
                          "type":"string",
@@ -2106,16 +1981,6 @@
                  "name":"3.D",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"3.B2023"
-                        }, 
-                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/view.genial.ly\/64c95d1ab414db0011d43b70\/interactive-content-pollution-post"
@@ -2142,16 +2007,6 @@
                  "id":47,
                  "name":"1.A",
                  "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"1.B2023"
-                        }, 
                         {
                          "name":"openWebsite",
                          "type":"string",
@@ -2294,11 +2149,6 @@
                  "name":"",
                  "properties":[
                         {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"3.Info2023"
-                        }, 
-                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/view.genial.ly\/64d24d50a53b08001227d416\/interactive-content-basic-infographic"
@@ -2326,11 +2176,6 @@
                  "name":"",
                  "properties":[
                         {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"1.Info2023"
-                        }, 
-                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/view.genial.ly\/64d24d50a53b08001227d416\/interactive-content-basic-infographic"
@@ -2357,11 +2202,6 @@
                  "id":103,
                  "name":"",
                  "properties":[
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"2.Info2023"
-                        }, 
                         {
                          "name":"openWebsite",
                          "type":"string",
@@ -2407,16 +2247,6 @@
                  "name":"",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"GA.12345"
-                        }, 
-                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/skribbl.io\/"
@@ -2443,16 +2273,6 @@
                  "id":107,
                  "name":"",
                  "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"GA.42345"
-                        }, 
                         {
                          "name":"openWebsite",
                          "type":"string",
@@ -2831,8 +2651,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":104,
- "nextobjectid":111,
+ "nextlayerid":105,
+ "nextobjectid":113,
  "orientation":"orthogonal",
  "properties":[
         {
