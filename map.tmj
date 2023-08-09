@@ -1665,11 +1665,6 @@
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"allow"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1692,11 +1687,6 @@
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"allow"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1719,11 +1709,6 @@
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"allow"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1746,11 +1731,6 @@
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"allow"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1773,11 +1753,6 @@
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"allow"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1800,11 +1775,6 @@
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"allow"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1827,11 +1797,6 @@
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"allow"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1854,11 +1819,6 @@
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"allow"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1881,11 +1841,6 @@
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"allow"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1908,11 +1863,6 @@
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"allow"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1935,11 +1885,6 @@
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"allow"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1962,11 +1907,6 @@
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"allow"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1989,11 +1929,6 @@
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"allow"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2016,11 +1951,6 @@
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"allow"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2157,11 +2087,6 @@
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"allow"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2184,11 +2109,6 @@
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"allow"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2211,11 +2131,6 @@
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"allow"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2255,11 +2170,6 @@
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"allow"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2282,11 +2192,6 @@
                          "name":"openWebsitePolicy",
                          "type":"string",
                          "value":"allow"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onicon"
                         }],
                  "rotation":0,
                  "type":"area",
