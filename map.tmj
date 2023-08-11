@@ -1674,7 +1674,7 @@
                  "y":381.955281551579
                 }, 
                 {
-                 "height":69.6437645756455,
+                 "height":32.540068050656,
                  "id":23,
                  "name":"",
                  "properties":[
@@ -1691,9 +1691,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":70.493785459844,
-                 "x":236.837476905039,
-                 "y":1004.00954661105
+                 "width":31.174942873661,
+                 "x":256.496898198131,
+                 "y":1023.94586116179
                 }, 
                 {
                  "height":91.0845574219363,
@@ -2091,7 +2091,7 @@
                  "y":740.21854071202
                 }, 
                 {
-                 "height":73.0816077953716,
+                 "height":33.8952890629588,
                  "id":105,
                  "name":"",
                  "properties":[
@@ -2108,9 +2108,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":72.1446641056872,
-                 "x":42.1624660357913,
-                 "y":872.294575096037
+                 "width":31.0249424545722,
+                 "x":65.885382372973,
+                 "y":894.435963677407
                 }, 
                 {
                  "height":0,
@@ -2181,11 +2181,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/vecp.hypotheses.org\/a-propos"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2237,6 +2232,34 @@
                  "width":54.9438,
                  "x":1204.11974953345,
                  "y":320.735323011229
+                }, 
+                {
+                 "height":74.6760377772897,
+                 "id":118,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":71.3815066988799,
+                 "x":45.0252580716011,
+                 "y":874.148912804744
+                }, 
+                {
+                 "height":83.4614539863826,
+                 "id":119,
+                 "name":"jj",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"test"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":110.915879639798,
+                 "x":373.380188886449,
+                 "y":643.531737316055
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2557,7 +2580,7 @@
          "y":0
         }],
  "nextlayerid":105,
- "nextobjectid":118,
+ "nextobjectid":120,
  "orientation":"orthogonal",
  "properties":[
         {
